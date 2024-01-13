@@ -1,0 +1,100 @@
+header {
+    font-family: Potta One;
+    font-size: 42px;
+    font-weight: bold;
+    text-align: left;
+    text-decoration: underline;
+  }
+  
+  .container {
+    border: 1px solid black;
+    padding: 10px;
+    margin: auto;
+    font-family: Potta One;
+  }
+  
+  h1 {
+    font-family: Monoton;
+    text-decoration: underline;
+  }
+  
+  .patch {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .Onix {
+    background-color: #353935;
+    color: white;
+  }
+  
+  .CornFlowerBlue {
+    background-color: #6495ED;
+    color: white;
+  }
+  
+  .Cognac {
+    background-color: #834333;
+    color: white;
+  }
+  
+  .AshGray {
+    background-color: #B2BEB5;
+  }
+  
+  .Pistachio {
+    background-color: #93C572;
+  }
+  
+  .Periwinkle {
+    background-color: #CCCCFF;
+  }
+  
+  .Alabaster {
+    background-color: #EDEADE;
+  }
+  
+  .Poppy {
+    background-color: #E35335;
+  }
+  
+  .Maize {
+    background-color: #FBEC5D;
+  }
+  
+  .pannel {
+    display: inline-block;
+    width: 30%;
+    font-size: 18px;
+  }
+  
+  .pannel .font {
+    text-decoration: underline;
+  }
+  
+  .font1 {
+    font-family: Potta One;
+  }
+  
+  .font2 {
+    font-family: Monoton;
+  }
+  
+  .font3 {
+    font-family: Shrikhand;
+  }
+  
+  .pannel .bold {
+    font-weight: bold;
+  }
+  
+  .pannel .italics {
+    font-style: italic;
+  }
+  
+  .tsh1 {
+    text-decoration: none;
+  }
+  
